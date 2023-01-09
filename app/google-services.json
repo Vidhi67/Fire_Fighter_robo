@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "494353740849",
+    "project_id": "fire-fighter-robo",
+    "storage_bucket": "fire-fighter-robo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494353740849:android:d23833aa5d0570c5949110",
+        "android_client_info": {
+          "package_name": "com.example.firefighterrobo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494353740849-69g0da0kts3g1k26vb8m3pthtdiiro0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKb33ob2pg7VxN10Hr3dd-6R1x0c-DdLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494353740849-69g0da0kts3g1k26vb8m3pthtdiiro0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
